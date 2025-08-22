@@ -14,6 +14,48 @@ Perfect for solo creators, small teams, and anyone looking to animate without th
     <tbody>
         <tr>
             <td>
+                <img src="./img/img-4.png" alt="img" />
+            </td>
+            <td>
+                <img src="./img/img-5.png" alt="img" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="./img/img-6.png" alt="img" />
+            </td>
+            <td>
+                <img src="./img/img-7.png" alt="img" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="./img/img-8.png" alt="img" />
+            </td>
+            <td>
+                <img src="./img/img-1.jpg" alt="img" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="./img/img-1.jpg" alt="img" />
+            </td>
+            <td>
+                <img src="./img/img-2.png" alt="img" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="./img/img-3.png" alt="img" />
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<table>
+    <tbody>
+        <tr>
+            <td>
                 <video src="https://github.com/user-attachments/assets/bbc1c978-c9a5-453c-8aa0-33975a5bed7b" controls preload>
                     Your browser does not support the video tag.
                 </video>
