@@ -8,6 +8,12 @@ Perfect for solo creators, small teams, and anyone looking to animate without th
 
 ---
 
+## 🗂 Scheme
+
+<img src="./img/img-9.png" alt="Scheme" />
+
+---
+
 ## 🖼️ Screenshots & Videos
 
 <table>
