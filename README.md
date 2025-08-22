@@ -9,8 +9,54 @@ Perfect for solo creators, small teams, and anyone looking to animate without th
 ---
 
 ## 🖼️ Screenshots & Videos
-- Interface screenshots: [Sketch Canvas](https://sketch.metademolab.com/canvas) (Amur Edited)
 
+<table>
+    <tbody>
+        <tr>
+            <td>
+                <video src="https://github.com/user-attachments/assets/bbc1c978-c9a5-453c-8aa0-33975a5bed7b" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+            <td>
+                <video src="https://github.com/user-attachments/assets/b1165f9c-355d-4712-8799-84e755aac712" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+            <td>
+                <video src="https://github.com/user-attachments/assets/cce0f57f-9332-49b6-9c30-69651453d31e" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <video src="https://github.com/user-attachments/assets/81371cfa-3e00-446c-9162-87767c8e5d18" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+            <td>
+                <video src="https://github.com/user-attachments/assets/7a582830-b153-4ca5-bdd9-e6ef4ad68e97" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+            <td>
+                <video src="https://github.com/user-attachments/assets/d63a1a84-0223-498e-aba7-299bb2795c2b" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>
+                <video src="https://github.com/user-attachments/assets/8903bc18-8323-43fb-a2bd-e85e61b0f926" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
 
 ---
 
